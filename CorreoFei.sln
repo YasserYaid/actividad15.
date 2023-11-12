@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorreoFei", "CorreoFei\CorreoFei.csproj", "{CBF8B469-DBA4-4870-8993-9BE388DFBD52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBF8B469-DBA4-4870-8993-9BE388DFBD52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF8B469-DBA4-4870-8993-9BE388DFBD52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF8B469-DBA4-4870-8993-9BE388DFBD52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF8B469-DBA4-4870-8993-9BE388DFBD52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95C2AA9C-D120-4A09-B385-041DA5A43EBD}
+	EndGlobalSection
+EndGlobal
